@@ -1,0 +1,4 @@
+
+*.so
+
+src/main/mr-tmp/
